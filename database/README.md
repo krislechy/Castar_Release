@@ -1,1 +1,1 @@
-this is empty database for example
+## Это пустая база данных уже готовая к использованию.
