@@ -1,6 +1,7 @@
 # Castar
 ## _Требования к системе_
 
+- ОС: Windows
 - [NetFramework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48)
 - [SQLLocalDB](https://download.microsoft.com/download/9/0/7/907AD35F-9F9C-43A5-9789-52470555DB90/ENU/SqlLocalDB.msi)
 
